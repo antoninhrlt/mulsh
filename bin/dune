@@ -1,4 +1,5 @@
 (executable
  (public_name mulsh)
  (name main)
- (libraries mulsh))
+ (libraries mulsh)
+ (modules main))
