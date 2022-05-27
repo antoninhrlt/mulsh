@@ -1,2 +1,4 @@
 (library
- (name mulsh))
+ (public_name mulsh)
+ (name mulsh)
+ (modules cmd logger shell))
