@@ -1,2 +1,3 @@
 (test
- (name mulsh))
+ (name mulsh)
+ (libraries mulsh))
